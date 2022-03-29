@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Laboratório de Computação Visual Aplicada
-subtitle: Why you'd want to go on a date with me
+title: COVAP
+subtitle: Laboratório de Computação Visual Aplicada
 ---
 
 My name is Inigo Montoya. I have the following qualities:
