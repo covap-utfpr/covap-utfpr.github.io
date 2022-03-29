@@ -14,7 +14,7 @@ author: Covap
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Sobre: "aboutme"
+  #Sobre: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
