@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Covap
+title: COVAP
 subtitle: Laboratório de Computação Visual Aplicada
 ---
 
