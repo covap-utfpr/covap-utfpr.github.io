@@ -6,6 +6,8 @@ subtitle: Laboratório de Computação Visual Aplicada
 
 # Trabalhos concluídos
 
+***
+
 - **Extensão e controle de câmeras IP por engenharia reversa e sua aplicação em reconhecimento de imagens** [[PDF]](https://eventos.utfpr.edu.br//sicite/sicite2017/paper/view/1342)
     - Cauê Felchar
 - **Desenvolvimento de rotinas para controle remoto de um robô autônomo baseado em Raspberry Pi** [[PDF]](https://eventos.utfpr.edu.br//sicite/sicite2019/paper/viewFile/4640/1324)
