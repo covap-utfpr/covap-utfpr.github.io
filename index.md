@@ -4,7 +4,7 @@ title: Covap
 subtitle: Laboratório de Computação Visual Aplicada
 ---
 
-# Trabalhos concluídos
+# <center>Trabalhos concluídos</center>
 
 ***
 
