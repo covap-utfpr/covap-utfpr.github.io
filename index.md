@@ -49,11 +49,11 @@ subtitle: Laboratório de Computação Visual Aplicada
 
 ***
 
-- **** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/3778/1/PG_PPGCC_M_Bueno%2c%20Felipe_2018.pdf)
+- **Método para mapeamento tridimensional térmico aplicado à sistemas de auxílio ao condutor** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/3778/1/PG_PPGCC_M_Bueno%2c%20Felipe_2018.pdf)
     - Felipe Bueno
 
-- **** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/5231/1/reidentificacaopessoasimagensdigitais.pdf)
+- **Re-identificação de pessoas em imagens digitais utilizando redes neurais siamesas e triplet baseadas em uma rede neural convolucional e um autoencoder** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/5231/1/reidentificacaopessoasimagensdigitais.pdf)
     - Fábia Isabella Pires Enembreck
 
-- **** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/5230/1/recuperacaotrajetoriacaracteresdeeplearning.pdf)
+- **Recuperação da trajetória online de caracteres latinos utilizando deep learning** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/5230/1/recuperacaotrajetoriacaracteresdeeplearning.pdf)
     - Lin Yu Han
