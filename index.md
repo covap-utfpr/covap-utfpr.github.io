@@ -48,3 +48,12 @@ subtitle: Laboratório de Computação Visual Aplicada
 # <center>Dissertações de Mestrado</center>
 
 ***
+
+- **** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/3778/1/PG_PPGCC_M_Bueno%2c%20Felipe_2018.pdf)
+    - Felipe Bueno
+
+- **** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/5231/1/reidentificacaopessoasimagensdigitais.pdf)
+    - Fábia Isabella Pires Enembreck
+
+- **** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/5230/1/recuperacaotrajetoriacaracteresdeeplearning.pdf)
+    - Lin Yu Han
