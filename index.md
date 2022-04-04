@@ -22,3 +22,25 @@ subtitle: Laboratório de Computação Visual Aplicada
     - Isabelle de Moura Correa
 - **Detecção de objetos em imagens utilizando Deep Learning** [[PDF]](https://eventos.utfpr.edu.br//sicite/sicite2018/paper/view/2893)
     - Leonardo de Oliveira Almeida
+
+# <center>Trabalhos de conclusão de curso</center>
+
+***
+
+- **Desenvolvimento de um robô móvel com trajetória programável utilizando a plataforma arduíno** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/15926/1/PG_COCIC_2016_2_05.pdf)
+    - Leonardo de Oliveira Almeida
+
+- **Rastreamento de pessoas em sequência de imagens infravermelhas** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/15921/1/PG_COCIC_2017_1_12.pdf)
+    - Leonardo de Oliveira Almeida
+
+- **Detecção de pessoas em imagens, implementando técnicas de visão computacional em um Raspberry Pi** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/16776/4/PG_COADS_2016_1_03.pdf)
+    - Leonardo de Oliveira Almeid
+
+- **Estudo e análise de diferentes métodos de calibração de câmeras** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/15915/3/PG_COCIC_2015_2_04.pdf)
+    - Leonardo de Oliveira Almeida
+
+- **Geração de mapa de pontos 3D utilizando imagens estéreo** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/16008/1/PG_COCIC_2019_2_14.pdf)
+    - Leonardo de Oliveira Almeida
+
+- **Análise de resultados benchmarks para escalonamento de tarefas de tempo real em máquinas heterogêneas** [[PDF]](https://repositorio.utfpr.edu.br/jspui/bitstream/1/15927/2/PG_COCIC_2016_2_02.pdf)
+    - Leonardo de Oliveira Almeida
